@@ -1,8 +1,26 @@
-# Belajar Analisis Data
+# 📊 Belajar Analisis Data
 
-Proyek ini berisi latihan dan contoh dalam melakukan **Data Wrangling** menggunakan bahasa pemrograman Python. Tujuannya pembuatan repositori ini untuk dolkumentasi saya.
+Repositori ini berisi berbagai materi dan latihan terkait **Analisis Data** menggunakan Python dan pustaka populer seperti Pandas, Matplotlib, dan Seaborn. Tujuan utama repositori ini adalah untuk memahami teknik dasar hingga lanjutan dalam mengolah, membersihkan, memvisualisasikan, dan menganalisis data.
 
-## Struktur Proyek
 
-- `Latihan Data Wrangling`: Data wrangling merupakan sebuah proses atau kumpulan kegiatan yang meliputi pengumpulan data (Gathering data), penilaian data (Assessing data), serta pembersihan data (Cleaning data) sebelum data digunakan dalam proses analisis data.. Saya menggunakan dataset dari [DicodingCollection](https://github.com/dicodingacademy/dicoding_dataset/tree/main/DicodingCollection)
 
+## 📌 Fitur dalam Repositori
+- **Data Wrangling**: Teknik membersihkan dan merapikan data menggunakan Pandas.
+- **Exploratory Data Analysis**: Menganalisis data
+- **Visualisasi Data**: Membuat grafik dan diagram dengan Matplotlib & Seaborn.
+
+```
+📂 Struktur Folder
+
+📂 Belajar-Analisis-Data
+ ├── 📂 Proyek Latihan
+ │   ├── proyek_analisis_data.ipynb  # Notebook utama untuk analisis data
+ ├── README.md                       # Dokumen ini
+ ```
+
+## 🛠 Teknologi yang Digunakan
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- VsCode
